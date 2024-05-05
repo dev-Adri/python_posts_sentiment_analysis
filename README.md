@@ -1,4 +1,4 @@
-# Threads.com Sentiment Analysis
+# Threads scrapper and sentiment analizer
 
 ## Project Description
 This project scrapes posts from threads.com, performs sentiment analysis, and displays the results in graphical form.
